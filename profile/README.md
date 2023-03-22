@@ -2,7 +2,7 @@ A place for scientific hardware and software tools developed as part of our rese
 
 Contributors:
 
-- Diego Perez Alvarez
+- Diego T P\'{e}rez-\'{A}lvarez
 - Jakub Sekula
 - Jacob Brown
 - Jason Stafford

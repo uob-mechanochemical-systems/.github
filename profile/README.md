@@ -4,5 +4,6 @@ Contributors:
 
 - Diego T Perez-Alvarez
 - Jakub Sekula
+- Hasna Fadhila
 - Jacob Brown
 - Jason Stafford

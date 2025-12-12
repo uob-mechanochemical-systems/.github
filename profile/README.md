@@ -4,6 +4,7 @@ Contributors:
 
 - Diego T Perez-Alvarez
 - Jakub Sekula
+- Adithya Alokkan
 - Hasna Fadhila
 - Jacob Brown
 - Run Si

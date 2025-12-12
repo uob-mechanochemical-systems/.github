@@ -1,4 +1,4 @@
-A place for scientific hardware and software tools developed as part of our research on mechanochemical processes at the University of Birmingham.
+A place for scientific hardware and software tools developed as part of our research on thermofluids and mechanochemical processes at the University of Birmingham.
 
 Contributors:
 
